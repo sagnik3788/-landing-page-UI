@@ -1,0 +1,9 @@
+body{
+    background-color:   #E7E8D1;
+}
+.pic{
+    position: relative;
+    left: 650px;
+    bottom: 100px;
+    background-color: #E7E8D2;
+}
